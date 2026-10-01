@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: example
+    description: "List of SQL Server databases"
+    columns:
+      - name: name
+        tests:
+          - not_null

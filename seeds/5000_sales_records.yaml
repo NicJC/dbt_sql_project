@@ -1,0 +1,9 @@
+version: 2
+
+seeds:
+  - name: 5000_sales_records
+    columns:
+      - name: order_id
+        tests:
+          - not_null
+          - unique

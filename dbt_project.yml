@@ -1,0 +1,16 @@
+name: 'my_dbt_project'
+version: '1.0.0'
+config-version: 2
+
+profile: 'sqlserver_profile'
+
+model-paths: ["models"]
+
+models:
+  my_dbt_project:
+    +materialized: view
+
+seeds:
+  my_dbt_project:
+    +schema: dbo
+    +quote_columns: false
