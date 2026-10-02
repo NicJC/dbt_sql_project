@@ -1,0 +1,16 @@
+
+version: 2
+
+models:
+  - name: dim_geography
+    description: "SCD2 geography dimension"
+    columns:
+      - name: country
+        tests:
+          - not_null
+      - name: geography_key
+        tests:
+          - not_null
+      - name: is_current
+        tests:
+          - not_null
