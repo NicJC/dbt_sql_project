@@ -1,0 +1,26 @@
+==================== 2026-10-01T23:47:11.860110Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-10-01T23:47:11.860396Z | 41e9988e-9abe-4e98-8b41-9005b1252c3e ====================
+23:47:11.860431 [info ]: Starting dbt LSP server
+23:47:11.860463 [info ]: Connecting to LSP client on port 8000
+23:47:11.862345 [info ]: Successfully connected to LSP client
+23:47:11.862369 [info ]: Creating LSP service...
+23:47:11.863655 [info ]: Creating LSP server...
+23:47:11.863665 [info ]: Starting LSP server...
+23:48:03.654512 [info ]: Loading ~/.dbt/profiles.yml
+23:49:26.011725 [info ]: Loading ~/.dbt/profiles.yml
+23:50:43.146634 [info ]: Loading ~/.dbt/profiles.yml
+23:54:35.148899 [info ]: Loading ~/.dbt/profiles.yml
+23:54:48.649253 [info ]: Loading ~/.dbt/profiles.yml
+23:59:00.138732 [info ]: Loading ~/.dbt/profiles.yml
+00:00:25.190987 [info ]: Loading ~/.dbt/profiles.yml
+00:01:23.530571 [info ]: Loading ~/.dbt/profiles.yml
+00:01:31.161662 [info ]: Loading ~/.dbt/profiles.yml
+00:03:06.680735 [info ]: Loading ~/.dbt/profiles.yml
+00:03:19.393091 [debug]: Ignoring unsupported LSP notification
+00:03:19.472587 [debug]: Ignoring unsupported LSP notification
+00:03:19.744053 [debug]: Ignoring unsupported LSP notification
+00:03:20.774757 [debug]: Ignoring unsupported LSP notification
+00:03:22.615157 [info ]: Loading ~/.dbt/profiles.yml
+00:03:22.656650 [debug]: Ignoring unsupported LSP notification
+00:03:22.890327 [info ]: Loading ~/.dbt/profiles.yml
+00:03:23.671966 [info ]: Loading ~/.dbt/profiles.yml
